@@ -30,8 +30,26 @@ nvm use 22
 nvm use 20
 ```
 
+## Typescript
+
+Para instalar corremos el siguiente comando ([link](https://www.typescriptlang.org/download/)):
+
+```bash
+npm install -g typescript
+```
+
+Para transpilar (transpilar es un tipo de compilacion), se utiliza:
+```bash
+
+```
+
 
 ## Clean code
 
 -  [Clean code JS](https://github.com/andersontr15/clean-code-javascript-es?tab=readme-ov-file#introducci%C3%B3n)
 -  [Libro codigo limpio](https://elhacker.info/manuales/Lenguajes%20de%20Programacion/Codigo%20limpio%20-%20Robert%20Cecil%20Martin.pdf)
+
+## Utilitarios
+
+-  [Markdown guia](https://www.markdownguide.org/cheat-sheet/)
+-  [Null vs Undefined vs 0](https://i.sstatic.net/T9M2J.png)
